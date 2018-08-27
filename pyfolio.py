@@ -2,7 +2,7 @@
 # @Author: boyac
 # @Date:   2018-08-27 19:28:58
 # @Last Modified by:   boyac
-# @Last Modified time: 2018-08-27 20:15:07
+# @Last Modified time: 2018-08-27 20:26:33
 
 
 def allocation_effect():
@@ -28,7 +28,9 @@ def active_effect():
 	return "{:.2%}".format(active)
 
 
-def PME(ticker, trade_dt, quantity, unit_cost, cost_basis, start_yr, dt, adj_cost, ticker_return):
+def PME():
+	#ticker, trade_dt, quantity, unit_cost, cost_basis, start_yr, dt, adj_cost, ticker_return
+	#index_close, index_st_close, share_ytd, index_ytd, cum_invst, cum_tic_return
 	pass
 
 
