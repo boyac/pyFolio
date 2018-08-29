@@ -35,7 +35,7 @@ class Performance(object):
 
 	def active_effect(self):
 		self.active = self.allocation_effect()+self.selection_effect()+self.interaction_effect() 
-		return "{:.2%}".format(active)
+		return "{:.2%}".format(self.active)
 
 	def PME():
 		"Public Market Equivalent (PME)"
