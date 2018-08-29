@@ -2,7 +2,7 @@
 # @Author: Boya Chiou
 # @Date:   2018-08-23 16:50:08
 # @Last Modified by:   Boya Chiou
-# @Last Modified time: 2018-08-29 11:28:48
+# @Last Modified time: 2018-08-29 11:31:14
 
 class Performance(object):
 	"""docstring for Performance"""
@@ -17,26 +17,25 @@ class Performance(object):
 
 	def allocation_effect(self):
 		# positive contribution: OW in sector OP index, UW in sector UP index
-		sector = (self.portw-self.benchw)*(self.benchr-self.benchtotal)
-		return sector
+		self.sector = (self.portw-self.benchw)*(self.benchr-self.benchtotal)
+		return self.sector
 
 
 	def selection_effect(self):
 		# positive contribution: OP benchmark sector
-		selection = self.portw*(self.portr-self.benchr)
-		return selection
+		self.selection = self.portw*(self.portr-self.benchr)
+		return self.selection
 
 
 	def interaction_effect(self):
 		# positive contribution: OW in port OP sector, UW in port UP sector
-		interaction = (self.portw-self.benchw)*(self.portr-self.benchr)
-		return interaction
+		self.interaction = (self.portw-self.benchw)*(self.portr-self.benchr)
+		return self.interaction
 
 
 	def active_effect(self):
-		active = self.allocation_effect()+self.selection_effect()+self.interaction_effect() 
+		self.active = self.allocation_effect()+self.selection_effect()+self.interaction_effect() 
 		return "{:.2%}".format(active)
-
 
 	def PME():
 		"Public Market Equivalent (PME)"
