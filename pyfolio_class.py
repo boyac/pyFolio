@@ -2,11 +2,11 @@
 # @Author: Boya Chiou
 # @Date:   2018-08-23 16:50:08
 # @Last Modified by:   Boya Chiou
-# @Last Modified time: 2018-08-29 11:24:48
+# @Last Modified time: 2018-08-29 11:28:48
 
 class Performance(object):
 	"""docstring for Performance"""
-	def __init__(self, benchr, benchw, benchtotal, portr, portw):
+	def __init__(self, benchr=0, benchw=0, benchtotal=0, portr=0, portw=0):
 		super(Performance, self).__init__()
 		self.benchr = benchr
 		self.benchw = benchw
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 	#Benchmark tech return 8%
 	#Benchmark tech weight 15%
 	#Total benchmark return 7%
-	p = Performance(0.09,0.07,0.07,0.08,0.15)
+	p = Performance(benchr=0.09, benchw=0.07, benchtotal=0.07, portr=0.08, portw=0.15)
 	"""
 	benchr=0.09
 	benchw=0.07
