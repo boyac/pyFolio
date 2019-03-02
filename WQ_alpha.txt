@@ -1,4 +1,3 @@
-I. 
 What is an alpha?
 - Mathematical model: historical data > predictions of future
 - Alpha weight
@@ -15,10 +14,10 @@ Alpha category:
 - Daily alphas: Delay1(beginner), Delay 0
 - Weekly/monthly alphas
 
-Short position (sell without have none, borrow from broker to sell, and buy back to brocker) vs. long position
+Short position (sell without a position, borrow from a broker to sell, and buy back to a broker) vs. long position
 long position: price goes up
 short position: price goes down
 
 II.
 Datasets: price-volume, fundamental, analyst estimate, relationship, sentiment, U.S. news data
-Mathematical Operators: time series vs. non time series (group neutralize, rank)
+Mathematical Operators: time series vs. non-time series (group neutralize, rank)
