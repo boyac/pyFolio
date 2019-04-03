@@ -15,6 +15,7 @@
 | 20190329 | n/a | n/a | n/a | n/a |  
 
 
+--
 ### Strategy02
 - Compound Return 2009-2017 / Index High Dividend Growth
 
