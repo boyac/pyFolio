@@ -16,7 +16,7 @@
 
 
 ### Strategy02
-- Compound Return 2009-2017 / Index High Dividend Growth
+- Compound Return 2009-2017 / Index High Dividend Growth\
 
 | YEAR | TOP TEN | TOPIX | ALPHA | WINNER(TOP TEN) |
 | --- | --- | --- | --- | --- |
