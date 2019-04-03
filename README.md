@@ -13,6 +13,9 @@
 | 20190329 | n/a | n/a | n/a | n/a |
 
 
+
+- Compound Return 2009-2017 / Index High Dividend Growth
+
 | YEAR | TOP TEN | TOPIX | ALPHA | WINNER(TOP TEN) |
 | --- | --- | --- | --- | --- |
 | 2009-2010 | n/a | n/a | n/a | n/a |
