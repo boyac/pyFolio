@@ -46,7 +46,7 @@
 -	Conducted fundamental investment analysis of the Japanese and South Korean markets and of the utilities and renewable energy sectors, successfully uncovered an undervalued stock and suggested overweight to benchmark, the stock has rebounded by over 217%
 -	Covered utilities sector and initiated target price at USD140 with 'Buy' investment rating, which outperformed the low-volatility benchmark by over 3%
 -	Derived comprehensive analysis of selected stocks from emerging markets and closely predicted stocks’ target price 
--	Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls for Nikkei 225
+-	Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls multiple times for Nikkei 225 in 2018
 -	Generated thematic strategy research on equity investment, attribution analysis, and backtesting
 -	Reviewed investment returns, risks, activities, and other investment-related issues in a timely and comprehensive manner
 -	Created portfolio attribution analysis module using Python and automated abnormal stock volatility calculations using VBA
