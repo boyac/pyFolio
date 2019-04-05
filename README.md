@@ -54,5 +54,5 @@
 -	Reviewed investment returns, risks, activities, and other investment-related issues in a timely and comprehensive manner
 -	Created portfolio attribution analysis module using Python and automated abnormal stock volatility calculations using VBA
 
-![alt tag](image/alpha01.jpeg)
+- ![alt tag](image/alpha01.jpeg)
 
