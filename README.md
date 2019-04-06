@@ -55,4 +55,3 @@
 -	Created portfolio attribution analysis module using Python and automated abnormal stock volatility calculations using VBA
 
 - ![alt tag](image/alpha01.jpeg)
-
