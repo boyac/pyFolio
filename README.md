@@ -3,7 +3,9 @@
 - attribution analysis of excess returns
 - portfolio construction
 
-- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=M5LPRWYFWUS4U&item_name=If+this+project+help+you+reduce+time+to+develop,+you+can+give+me+a+cup+of+coffee+%3A%29&currency_code=USD&source=url)
+- If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=M5LPRWYFWUS4U&item_name=If+this+project+help+you+reduce+time+to+develop,+you+can+give+me+a+cup+of+coffee+%3A%29&currency_code=USD&source=url)
 
 ***
 
