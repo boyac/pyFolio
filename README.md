@@ -45,7 +45,7 @@
 
 
 ### Content/Achievement
--	Conducted fundamental investment analysis of the Japanese and South Korean markets and of the utilities and renewable energy sectors, successfully uncovered an undervalued stock and suggested overweight to benchmark, the stock has rebounded by over 217%
+-	Conducted fundamental investment analysis of the Japanese and South Korean markets and of the utilities and renewable energy sectors, successfully uncovered an undervalued stock and suggested overweight to benchmark, the stock has rebounded by over 452%
 -	Covered utilities sector and initiated target price at USD140 with 'Buy' investment rating, which outperformed the low-volatility benchmark by over 3%
 -	Covered alternative energy sector and raised target price from USD37 to USD56
 -	Derived comprehensive analysis of selected stocks from emerging markets and closely predicted stocks’ target price 
