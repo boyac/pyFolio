@@ -9,7 +9,7 @@
 ### Strategy01
 | DATE | MSCI World | Port_01 | Port_02 |
 | --- | --- | --- | --- |
-| TOTAL RETURN | n/a | n/a | n/a |
+| TOTAL RETURN | 2.13% | 2.91% | 3.87% |
 | # OF HOLDINGS | 1,632 | <100 | <100 |
 | 20190320 | 0% | 1.29% | 1.29% |
 | 20190321 | 0.75% | 0.90% | 0.90% |
