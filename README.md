@@ -56,4 +56,7 @@
 
 - ![alt tag](image/alpha01.jpeg)
 
+***
 
+### Reference:
+https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
