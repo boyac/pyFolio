@@ -1,4 +1,4 @@
-# pyFolio
+E# pyFolio
 - use python 2.7
 - attribution analysis of excess returns
 - portfolio construction
@@ -54,7 +54,7 @@
 -	Covered utilities sector and initiated target price at USD140 with 'Buy' investment rating, which outperformed the low-volatility benchmark by over 3%
 -	Covered alternative energy sector and raised the target price from USD37 to USD56
 -	Derived comprehensive analysis of selected stocks from emerging markets and closely predicted stocks’ target price 
--	Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls multiple times for Nikkei 225 in 2018
+-	Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls multiple times for Nikkei 225 in 2018 and 2019 (meet the target price within 1%)
 -	Generated thematic strategy research on equity investment, attribution analysis, and backtesting
 -	Reviewed investment returns, risks, activities, and other investment-related issues in a timely and comprehensive manner
 -	Created portfolio attribution analysis module using Python and automated abnormal stock volatility calculations using VBA
