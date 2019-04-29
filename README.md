@@ -7,7 +7,7 @@
 ***
 
 ### Strategy01
-| DATE | MSCI World (Benchmark) | Port_01 | Port_02 |
+| DATE | MSCI World | Port_01 | Port_02 |
 | --- | --- | --- | --- |
 | TOTAL RETURN | 2.13% | 2.91% | 3.87% |
 | # OF HOLDINGS | 1,632 | <100 | <100 |
