@@ -52,7 +52,7 @@
 ### Content/Achievement
 -	Conducted fundamental investment analysis of the Japanese and South Korean markets and of the utilities and renewable energy sectors, successfully uncovered an undervalued stock and suggested overweight to benchmark, the stock has rebounded by over 391% (initiated on Jan 16, 2019)
 -	Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls multiple times for Nikkei 225 in 2018 and 2019, gave 'Sell' rating before market correction (-21%) in Oct. 2018 and met the target price within 1% in 2019
--	Derived comprehensive analysis of selected stocks from emerging markets and closely predicted stocks’ target price, raised TP from THB63.2 to THB76 (52 Week High THB77.8)
+-	Derived comprehensive analysis of selected stocks from emerging markets and closely predicted stocks’ target price, raised TP from THB59.7 to THB76 (52 Week High THB77.8)
 -	Covered alternative energy sector and raised the target price from USD37 to USD56 (YTD 41%)
 -	Covered utilities sector and initiated target price at USD140 with 'Buy' investment rating, which outperformed the low-volatility benchmark by over 3%
 -	Generated thematic strategy research on equity investment, attribution analysis, and backtesting
