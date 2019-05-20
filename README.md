@@ -8,6 +8,8 @@
 ***
 
 ### Strategy01
+** returns should be higher/lower since some days are missing from the data
+
 | DATE | MSCI World | Port_01 | Port_02 |
 | --- | --- | --- | --- |
 | TOTAL RETURN | 3.16% | 6.60% | 5.75% |
@@ -29,7 +31,7 @@
 | 20190503 | -0.41% | -0.41% | -0.27% | 
 | 20190513 | 0.33% | 0.11% | 0.61% | 
 | 20190516 | 0.55% | 2.03% | 1.01% | 
-** returns should be higher/lower since some days are missing from the data
+
 
 ### Sectors(ciphered)
 241211
