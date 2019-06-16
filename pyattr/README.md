@@ -1,2 +1,2 @@
 - use python 2.7
-- calculate portfolio attribution analysis of excess returns
+- calculate performance and attribution analysis of excess returns
