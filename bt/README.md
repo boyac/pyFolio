@@ -1,2 +1,0 @@
-- use python 2.7
-- backtesting
