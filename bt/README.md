@@ -3,7 +3,6 @@
 
 
 ```python
-from quantopian.research import prices, symbols
 import pandas as pd
 
 
@@ -49,7 +48,6 @@ plot()
 
 
 ```python
-from quantopian.research import returns, symbols
 
 def quote_returns(ticker, start_dt, end_dt):
     quote_returns = returns(assets=symbols(ticker), start=start_dt, end=end_dt)
@@ -77,10 +75,6 @@ plot()
 
 
 ```python
-from quantopian.research import run_pipeline
-from quantopian.pipeline import Pipeline
-from quantopian.pipeline.factors import Returns
-from quantopian.pipeline.data.psychsignal import stocktwits
 
 def make_pipeline():
     returns = Returns(window_length=2)
@@ -123,11 +117,6 @@ output('2013-01-03', '2019-06-25')
 
 
 ```python
-from quantopian.pipeline import Pipeline
-from quantopian.pipeline.data import USEquityPricing
-from quantopian.pipeline.data.psychsignal import stocktwits
-from quantopian.pipeline.factors import SimpleMovingAverage
-from quantopian.pipeline.experimental import QTradableStocksUS
 
 def make_pipeline():
     base_universe = QTradableStocksUS()
