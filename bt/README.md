@@ -143,7 +143,6 @@ make_pipeline()
 
 
 ```python
-from quantopian.research import run_pipeline
 
 def output(start_dt, end_dt, length):
     pipeline_output = run_pipeline(make_pipeline(), start_date=start_dt, end_date=end_dt)
@@ -225,14 +224,7 @@ output('2019-06-03','2019-06-26',10)
 
 
 ```python
-from quantopian.pipeline import Pipeline
-from quantopian.pipeline.data.psychsignal import stocktwits
-from quantopian.pipeline.factors import SimpleMovingAverage
-from quantopian.pipeline.experimental import QTradableStocksUS
-from quantopian.research import run_pipeline
-from quantopian.research import prices
-import alphalens as al
-import pandas as pd
+
 
 def make_pipeline():
     base_universe = QTradableStocksUS()
