@@ -49,8 +49,7 @@ class Performance(object):
 		pass
 ```
 
-
-
+```python
 if __name__ == "__main__":
 	#Benchmark S&P500
 	#Bechmark segment S&P500 Tech
@@ -71,3 +70,4 @@ if __name__ == "__main__":
 	print p.selection_effect()
 	print p.interaction_effect()
 	print p.active_effect()
+```
