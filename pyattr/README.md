@@ -47,6 +47,7 @@ class Performance(object):
 		#ticker, trade_dt, quantity, unit_cost, cost_basis, start_yr, dt, adj_cost, ticker_return
 		#index_close, index_st_close, share_ytd, index_ytd, cum_invst, cum_tic_return
 		pass
+```
 
 
 
@@ -70,4 +71,3 @@ if __name__ == "__main__":
 	print p.selection_effect()
 	print p.interaction_effect()
 	print p.active_effect()
-```
