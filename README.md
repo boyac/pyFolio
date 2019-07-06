@@ -10,6 +10,10 @@
 | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | 
 | -
 | Span <td colspan=3>triple  <td colspan=2>double
+  
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
 
 ### Strategy01
 ** returns should be higher/lower since some days are missing from the data
