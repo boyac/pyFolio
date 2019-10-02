@@ -8,6 +8,9 @@
 ***
 
 ### Strategy01
+- CAGR(annualized return): approx. 25%
+- MDD: approx. 12%
+- Sharp Ratio: >1.5-1.8
 ** returns should be higher/lower since some days are missing from the data
 
 | DATE | MSCI World | Port_01 | Port_02 |
