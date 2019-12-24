@@ -7,8 +7,9 @@
 
 ***
 ### StrBeta
-![alt tag](image/tmp02ng)
+![alt tag](image/tmp02.png)
 ![alt tag](image/ec.png)
+
 
 ### Str01
 - CAGR(annualized return): approx. 25%
