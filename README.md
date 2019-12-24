@@ -6,8 +6,11 @@
 
 
 ***
+### StrBeta
+![alt tag](image/tmp02ng)
+![alt tag](image/ec.png)
 
-### Strategy01
+### Str01
 - CAGR(annualized return): approx. 25%
 - MDD: approx. -12%
 - Sharpe Ratio: >1.5-1.8
@@ -70,7 +73,7 @@ G1515712
 
 ***
 
-### Strategy02
+### Stra02
 - Compound Return 2009-2017 / Index High Dividend Growth
 
 | YEAR | TOP TEN | TOPIX | ALPHA | WINNER |
