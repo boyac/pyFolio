@@ -2,7 +2,7 @@
 - use python 2.7
 - attribution analysis of excess returns
 - portfolio construction
-- if this project helps you reduce the time to develop, you could buy me a cup of coffee :)[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/boyac?locale.x=en_US)
+- if this project helps you reduce the time to develop, you could buy me a cup of coffee :)[![paypal](http://rickrduncan.com/wp-content/uploads/2017/11/buy-me-coffee-paypal.png)](https://paypal.me/boyac?locale.x=en_US)
 
 
 ***
