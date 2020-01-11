@@ -8,7 +8,6 @@
 
 ***
 ### StrBeta
-![alt tag](image/tmp02.png)
 ![alt tag](image/ec.png)
 ![enhanced](image/ec02.png)
 
