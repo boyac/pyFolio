@@ -7,6 +7,12 @@
 
 
 ***
+### StrX
+|          | JAN |
+| ---      | ---       |
+| 2017 | `         |
+| 2018 | |
+
 ### StrBeta
 ![alt tag](image/ec.png)
 ![enhanced](image/ec02.png)
