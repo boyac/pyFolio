@@ -14,6 +14,9 @@
 | 2018 | | | | | | | | | | | | | |
 | 2019 | | | | | | | | | | | | | |
 | 2020 | | | | | | | | | | | | | |
+12-Month Return
+2 Year Return
+3 Year Return
 </br>
 
 ### StrBeta
