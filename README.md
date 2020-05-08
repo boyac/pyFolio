@@ -9,10 +9,7 @@
 
 ***
 ### StrFT
-> YTD Return: 15.43%(As of 2020/05/08)
-> 12-Month Return
-> 2 Year Return
-> 3 Year Return
+
 |    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
 | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
 | 2017 | | | | | | | | | | | | | |
