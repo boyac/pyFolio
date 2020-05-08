@@ -18,9 +18,9 @@
 | 2020 | | | | | | | | | | | | | |
 </br>
 - YTD Return: 15.43% (As of 2020/05/08)
-- 12-Month Return
-- 2 Year Return
-- 3 Year Return
+//- 12-Month Return
+//- 2 Year Return
+//- 3 Year Return
 
 ### StrBeta
 ![alt tag](image/ec.png)
