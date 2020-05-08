@@ -2,7 +2,8 @@
 - use python 2.7
 - attribution analysis of excess returns
 - portfolio construction
-- You can contribute to the project by reporting bugs, suggesting enhancements or exchanging portfolio management experiences.
+- results below are not for any commercial purposes
+- You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
 *You can also buy me a cup of coffee :)*[![paypal](http://rickrduncan.com/wp-content/uploads/2017/11/buy-me-coffee-paypal.png)](https://paypal.me/boyac?locale.x=en_US)
 
 
@@ -15,10 +16,10 @@
 | 2019 | | | | | | | | | | | | | |
 | 2020 | | | | | | | | | | | | | |
 </br>
-YTD Return: 15.43%(As of 2020/05/08)
-+ 12-Month Return
-+ 2 Year Return
-+ 3 Year Return
+- YTD Return: 15.43%(As of 2020/05/08)
+- 12-Month Return
+- 2 Year Return
+-  3 Year Return
 </br>
 
 ### StrBeta
