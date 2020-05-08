@@ -18,6 +18,7 @@
 | 2020 | | | | | | | | | | | | | |
 </br>
 12-Month Return: 17.42% (As of 2020/05/08)
+</br>
 //- 2 Year Return
 //- 3 Year Return
 
