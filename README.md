@@ -5,10 +5,14 @@
 - results below are not for any commercial purposes
 - You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
 *You can also buy me a cup of coffee :)*[![paypal](http://rickrduncan.com/wp-content/uploads/2017/11/buy-me-coffee-paypal.png)](https://paypal.me/boyac?locale.x=en_US)
-> test
+
 
 ***
 ### StrFT
+> YTD Return: 15.43%(As of 2020/05/08)
+> 12-Month Return
+> 2 Year Return
+> 3 Year Return
 |    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
 | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
 | 2017 | | | | | | | | | | | | | |
@@ -16,11 +20,7 @@
 | 2019 | | | | | | | | | | | | | |
 | 2020 | | | | | | | | | | | | | |
 </br>
-> YTD Return: 15.43%(As of 2020/05/08)
-> 12-Month Return
-> 2 Year Return
-> 3 Year Return
-</br>
+
 
 ### StrBeta
 ![alt tag](image/ec.png)
