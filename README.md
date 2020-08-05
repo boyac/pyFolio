@@ -22,11 +22,7 @@
 | 2019 | | | | | | | | | | | | |28.94%|
 | 2020 | | | | | | | | | | | | |21.51%|
 </br>
-Since 2017;
-12-Month Return: 17.42% (As of 2020/05/08)
-</br>
-//- 2 Year Return
-//- 3 Year Return
+Since 2017
 
 ### StrBeta
 ![alt tag](image/ec.png)
