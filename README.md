@@ -9,6 +9,11 @@
 
 
 ***
+### StrX01
+- AUM: USD$ 18M
+- Achieved 6.5% and USD$ 1.6M gain within less than 60 Days
+- Fund type: Low-vol bond fund
+
 ### StrFT
 
 |    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
