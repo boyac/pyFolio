@@ -15,14 +15,15 @@
 - Achieved 6.5% and USD$ 1.6M gain within less than 60 Days
 - Bonus: $ 0.00 (**** YOU! Good job!)
 
+</br>
 ### StrFT_r$
+- Since 2017
 
 |    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
 | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
 | 2019 | | | | | | | | | | | | |28.94%|
 | 2020 | | | | | | | | | | | | |21.51%|
-</br>
-Since 2017
+
 
 ### StrBeta
 ![alt tag](image/ec.png)
