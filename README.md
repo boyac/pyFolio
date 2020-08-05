@@ -13,7 +13,7 @@
 - AUM: USD$ 18M
 - Fund type: Low-vol bond fund
 - Achieved 6.5% and USD$ 1.6M gain within less than 60 Days
-- Bonus: $ 0.00 (!)
+- Bonus: $ 0.00 (**** YOU!)
 
 ### StrFT_r$
 - Since 2017
