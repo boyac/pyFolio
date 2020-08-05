@@ -9,17 +9,17 @@
 
 
 ***
-### StrX01
+### StrX01_real$
 - AUM: USD$ 18M
 - Fund type: Low-vol bond fund
 - Achieved 6.5% and USD$ 1.6M gain within less than 60 Days
 - Bonus: $ 0.00 (F*CK YOU! Good job!)
 
-### StrFT
+### StrFT_real$
 
 |    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
 | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
-| 2017 | | | | | | | | | | | | | |
+| 2017 | n/a| n/a | n/a | n/a | | | | | | | | | |
 | 2018 | | | | | | | | | | | | | |
 | 2019 | | | | | | | | | | | | | 28.94%|
 | 2020 | | | | | | | | | | | | | 21.51%|
