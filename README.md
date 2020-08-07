@@ -10,7 +10,7 @@
 
 ***
 ### StrX01_r$
-IG fixed income portfolio
+IG fixed income portfolio (TWD)
 - Initial AUM: USD$ 16.8M
 - Recent AUM: USD$ 18.8M
 - ITD return: 7.25%
