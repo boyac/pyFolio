@@ -10,10 +10,14 @@
 
 ***
 ### StrX01_r$
-- AUM: USD$ 18M
-- Fund type: Low-vol bond fund
-- Achieved 6.5% and USD$ 1.6M gain within less than 60 Days
-- Bonus: $ 0.00 (****)
+IG fixed income portfolio
+- Initial AUM: USD$ 16.8M
+- Recent AUM: USD$ 18.8M
+- ITD return: 7.25%
+- Annualized Return: 32.66%
+- Annualized Vol: 5.64%
+- Sharpe Ratio: 5.79
+- Bonus: ...
 
 ### StrFT_r$
 - Since 2017
