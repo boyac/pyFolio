@@ -17,7 +17,7 @@ IG fixed income portfolio (TWD)
 - Annualized Return: 32.66%
 - Annualized Vol: 5.64%
 - Sharpe Ratio: 5.79
-- Bonus: ...
+- Bonus: ... 😫😫😫
 
 ### StrFT_r$
 - Since 2017
