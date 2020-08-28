@@ -9,25 +9,6 @@
 
 
 ***
-### StrX01_r$
-IG fixed income portfolio (TWD)
-- Initial AUM: USD$ 16.8M
-- Recent AUM: USD$ 18.8M
-- ITD return: 7.25%
-- Annualized Return: 32.66%
-- Annualized Vol: 5.64%
-- Sharpe Ratio: 5.79
-- Bonus: ... 😫😫😫
-
-### StrFT_r$
-- Since 2017
-
-|    | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |  YTD |
-| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
-| 2019 | | | | | | | | | | | | |28.94%|
-| 2020 | | | | | | | | | | | | |21.51%|
-
-
 ### StrBeta
 ![alt tag](image/ec.png)
 ![enhanced](image/ec02.png)
