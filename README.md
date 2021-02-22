@@ -6,7 +6,6 @@
 - You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
 *You can also buy me a cup of coffee :)
 </br>*[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/boyac?locale.x=en_US)
-qrencode "bitcoin:36j8C43FSftiQVjAdxzZH1GF4NAMF39k3M" -lQ -o bitcoin-qrcode.png
 
 
 
