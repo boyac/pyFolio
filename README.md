@@ -101,7 +101,7 @@ G1515712
 
 
 ### Analyst Journey 2017-
-- Conducted fundamental investment analysis of the Japanese and South Korean markets and the utilities and renewable energy sectors. Conducted bottom-up research and successfully uncovered an undervalued utilities stock, suggesting an overweight to the benchmark. The electricity stock rebounded by over 391% in 2 months (initiated on Jan 16, 2019).
+- Conducted fundamental investment analysis of the Japanese and South Korean markets and the utilities and renewable energy sectors. Conducted bottom-up research and successfully uncovered an undervalued utilities stock, suggesting an overweight to the benchmark. The electricity stock rebounded by over 391% in 2 months (initiated on Jan 16, 2019). Keywords: chapter 11, chapter 7, list of fires history.
 
 - Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls for the Nikkei 225 in 2018 and 2019. Gave a 'Sell' rating before a market correction (-21%) in Oct. 2018 and met the target price within 1% in 2019.
 
