@@ -105,7 +105,7 @@ G1515712
 
 - Presented Japanese economic and market views to external and internal clients and made profitable buy and sell calls for the Nikkei 225 in 2018 and 2019. Gave a 'Sell' rating before a market correction (-21%) in Oct. 2018 and met the target price within 1% in 2019.
 
-- Derived comprehensive analysis of selected stocks from emerging markets and accurately predicted the target price. Raised the target price from THB59.7 to THB76 (52 Week High THB77.8).
+- Derived comprehensive analysis of selected stocks from emerging markets. Raised the target price from THB59.7 to THB76 (52 Week High THB77.8).
 
 - Covered the utilities sector and initiated a target price of USD140 with a 'Buy' investment rating, outperforming the low-volatility benchmark by over 3%.
 
