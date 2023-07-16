@@ -12,6 +12,10 @@ you can make a donation to this project:
 ![alt tag](image/ec.png)
 ![enhanced](image/ec02.png)
 
+```diff
+- # if you are interested and would like to know the strategy composition process, please drop a brief message at Issues [issues](https://github.com/boyac/pyFolio/issues/1)
+
+```
 
 ### Str01
 - CAGR(annualized return): approx. 25%
