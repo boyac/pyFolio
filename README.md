@@ -1,4 +1,5 @@
 # If you are interested and would like to know the strategy composition process, please leave a brief message at Issues [issues](https://github.com/boyac/pyFolio/issues/1)
+![Str01](image/1617105678838.png)
 
 # pyFolio
 ## Content
