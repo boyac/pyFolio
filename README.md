@@ -100,7 +100,7 @@ G1515712
 ***
 
 
-### Analyst Journey 2017-
-- •	Performed fundamental analysis of Emerging (EM) and Developed (DM) markets, focusing on utilities, energy sectors, indices, and multi-assets. Through top-down and bottom-up research, uncovered an undervalued electricity stock, recommending an overweight position compared to the benchmark. The stock surged by over 391% in two months (initiated January 16, 2019), with a dramatic price swing from $0.96 to $25, reflecting the high risk and uncertainty surrounding the company during its bankruptcy proceedings and wildfire-related liabilities. Keywords: Chapter 11, Chapter 7, list of fires history.
+### Analyst Journey from 2017-
+-	Performed fundamental analysis of Emerging (EM) and Developed (DM) markets, focusing on utilities, energy sectors, indices, and multi-assets. Through top-down and bottom-up research, uncovered an undervalued electricity stock, recommending an overweight position compared to the benchmark. The stock surged by over 391% in two months (initiated January 16, 2019), with a dramatic price swing from $0.96 to $25, reflecting the high risk and uncertainty surrounding the company during its bankruptcy proceedings and wildfire-related liabilities. Keywords: Chapter 11, Chapter 7, list of fires history.
   
 ![alt tag](image/alpha01.jpeg)
