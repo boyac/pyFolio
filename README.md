@@ -99,8 +99,73 @@ G1515712
 
 ***
 
-
-### Analyst Journey from 2017-
+### Analyst Journey since 2017-
 -	Performed fundamental analysis of Emerging (EM) and Developed (DM) markets, focusing on utilities, energy sectors, indices, and multi-assets. Through a combination of top-down and bottom-up research, I identified an undervalued electricity stock, recommending an overweight position compared to the benchmark. The stock surged by over 391% in two months (initiated January 16, 2019), with a dramatic price movement from $0.96 to $25, reflecting the high-risk environment due to the company’s bankruptcy proceedings and wildfire-related liabilities. However, while research is one thing, having the conviction to act on that insight is another. Investing is inherently complex, and luck can play a role in such volatility. Keywords: Chapter 11, Chapter 7, list of fires history.
   
 ![alt tag](image/alpha01.jpeg)
+
+### Portfolio Manager Journey since 2019-
+
+# Bond ETFs Fund of Funds Performance (Relative Return)
+
+## Portfolio vs. Benchmark
+
+| Metric                | Portfolio | Bmrk01  | Bmrk02  |
+|-----------------------|----------|---------|---------|
+| Annualized Return    | -2.39%   | -3.90%  | -5.51%  |
+| Annualized Volatility | 5.55%    | 5.68%   | 3.12%   |
+| Excess Returns       | N/A      | +1.51%  | +3.12%  |
+
+### 2020 Quarterly NAV Performance
+
+| Year  | Q1 (NAV 3/9) | Q2   | Q3   | Q4   |
+|-------|-------------|------|------|------|
+| 2020  | **10.00**   | 0.00% | -0.20% | 1.00% |
+| Bmrk01 | -4.97%     | 0.80%  | -0.78% |
+| Bmrk02 | -1.47%     | 3.12%  | -1.45% |
+
+- **Start Date**: March 9, 2020  
+- **Investment Focus & Limitations**: A-Rated US Bond ETF  
+- **Benchmark01 (Bmrk01)**: Bloomberg Barclays Global Aggregate Total Return Index  
+- **Benchmark02 (Bmrk02)**: iShare Core US Aggregate  
+
+---
+
+# Real Estate Fund of Funds Performance (Absolute Return)
+
+## Portfolio NAV & Dividend Distribution
+
+### Key Performance Metrics
+
+| Metric                 | Value  |
+|------------------------|--------|
+| Annualized Total Return | 7.68%  |
+| Annualized Volatility  | 2.96%  |
+| Maximum Drawdown      | -1.54%  |
+| Sharpe Ratio          | 2.59    |
+
+### 2020 Monthly Returns
+
+| Month  | Return |
+|--------|--------|
+| Jan    | 1.24%  |
+| Feb    | 0.53%  |
+| Mar    | 0.47%  |
+| Apr    | -0.04% |
+| May    | 0.17%  |
+| Jun    | 0.06%  |
+| Jul    | 0.32%  |
+| Aug    | -0.19% |
+| Sep    | -0.22% |
+| Oct    | -0.06% |
+
+- **Start Date**: June 2020  
+
+---
+
+## **Institutional Fund Management & Mandate Constraints**
+- Managed under **Private Banking & Institutional Mandates**, ensuring compliance with allocation and risk exposure limits.  
+- **Bond Fund:** Focus on **A-rated U.S. bonds**, balancing **risk constraints and performance optimization**.  
+- **Real Estate Fund:** Managed with **limited rebalancing frequency**, focusing on maximizing returns while controlling drawdowns.  
+
+📌 **Performance results reflect institutional portfolio management, demonstrating expertise in structured investment environments.**
