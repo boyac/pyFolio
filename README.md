@@ -1,12 +1,11 @@
 ## pyFolio Overview
 
-This document outlines my investment strategy development process and past investment journey, showcasing key milestones and performance highlights. A significant component of this journey involves the use of quantitative tools and in-depth analysis.
+This document outlines part of my investment strategy development process and past investment journey, showcasing key milestones and performance highlights. A significant component of this journey involves the use of quantitative tools and in-depth analysis.
 
 **Key Features**
 
 *   Python 2.7 Compatibility: Ensures robustness and backward compatibility.
 *   Attribution Analysis: Focuses on the attribution of excess returns relative to benchmarks.
-*   Portfolio Construction: Allows for advanced strategies in building optimized portfolios.
 
 **Contributing**
 
@@ -59,10 +58,7 @@ Detailed daily returns from March to May 2019 are provided below for further ana
 Total Compound Return from 2009-2017: 212.92% (vs. 103.61% for the TOPIX Index)
 
 ## Analyst Journey (Since 2017)
-
-## Analyst Journey (Since 2017)
-
-*My research process identified a significant mispricing in the electricity stock at $7, a conviction strengthened as market panic drove the price even lower to $0.96. However, recognizing the inherent difficulty in acting decisively on research, I observed from the sidelines while those with greater risk tolerance and conviction realized returns exceeding 2500% as the stock rebounded to $25 within two months. This experience underscored the critical distinction between identifying an opportunity and successfully capitalizing on it.
+My research process identified a significant mispricing in the electricity stock at $7, a conviction strengthened as market panic drove the price even lower to $0.96. However, recognizing the inherent difficulty in acting decisively on research, I observed from the sidelines while those with greater risk tolerance and conviction realized returns exceeding 2500% as the stock rebounded to $25 within two months. This experience underscored the critical distinction between identifying an opportunity and successfully capitalizing on it.
 
 
 ## Portfolio Management Experience (Since 2019)
@@ -89,7 +85,9 @@ Focus: A-Rated U.S. Bond ETFs
 
 Benchmarks: Bloomberg Barclays Global Aggregate Total Return Index (Bmrk01), iShares Core US Aggregate (Bmrk02)
 
-**Real Estate Fund of Funds Performance (Absolute Return)**
+
+
+##Real Estate Fund of Funds Performance (Absolute Return)
 
 **Key Performance Metrics**
 
