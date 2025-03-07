@@ -86,8 +86,8 @@ Focus: A-Rated U.S. Bond ETFs
 Benchmarks: Bloomberg Barclays Global Aggregate Total Return Index (Bmrk01), iShares Core US Aggregate (Bmrk02)
 
 
-
-##Real Estate Fund of Funds Performance (Absolute Return)
+---
+**Real Estate Fund of Funds Performance (Absolute Return)**
 
 **Key Performance Metrics**
 
