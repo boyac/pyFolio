@@ -106,23 +106,23 @@ G1515712
 
 ### Portfolio Manager Journey since 2019-
 
-# Bond ETFs Fund of Funds Performance (Relative Return)
+### Bond ETFs Fund of Funds Performance (Relative Return)
 
-## Portfolio vs. Benchmark
+### Portfolio vs. Benchmark
 
 | Metric                | Portfolio | Bmrk01  | Bmrk02  |
 |-----------------------|----------|---------|---------|
 | Annualized Return    | -2.39%   | -3.90%  | -5.51%  |
-| Annualized Volatility | 5.55%    | 5.68%   | 3.12%   |
+| Annualized Volatility | 5.55%    | +5.68%   | +9.54%   |
 | Excess Returns       | N/A      | +1.51%  | +3.12%  |
 
 ### 2020 Quarterly NAV Performance
 
 | Year  | Q1 (NAV 3/9) | Q2   | Q3   | Q4   |
 |-------|-------------|------|------|------|
-| 2020  | **10.00**   | 0.00% | -0.20% | 1.00% |
-| Bmrk01 | -4.97%     | 0.80%  | -0.78% |
-| Bmrk02 | -1.47%     | 3.12%  | -1.45% |
+| 2020  | 10.00   | 0.00% | -0.20% | 1.00% |
+| Bmrk01 |  10.00   | -4.97%  | 0.80% | 0.78% |
+| Bmrk02 | 10.00   | -1.47%  | 0.72% | -1.45% |
 
 - **Start Date**: March 9, 2020  
 - **Investment Focus & Limitations**: A-Rated US Bond ETF  
@@ -131,9 +131,9 @@ G1515712
 
 ---
 
-# Real Estate Fund of Funds Performance (Absolute Return)
+### Real Estate Fund of Funds Performance (Absolute Return)
 
-## Portfolio NAV & Dividend Distribution
+### Portfolio NAV & Dividend Distribution
 
 ### Key Performance Metrics
 
@@ -157,13 +157,13 @@ G1515712
 | Jul    | 0.32%  |
 | Aug    | -0.19% |
 | Sep    | -0.22% |
-| Oct    | -0.06% |
+| Oct    | 0.06% |
 
 - **Start Date**: June 2020  
 
 ---
 
-## **Institutional Fund Management & Mandate Constraints**
+### **Institutional Fund Management & Mandate Constraints**
 - Managed under **Private Banking & Institutional Mandates**, ensuring compliance with allocation and risk exposure limits.  
 - **Bond Fund:** Focus on **A-rated U.S. bonds**, balancing **risk constraints and performance optimization**.  
 - **Real Estate Fund:** Managed with **limited rebalancing frequency**, focusing on maximizing returns while controlling drawdowns.  
